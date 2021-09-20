@@ -23,7 +23,7 @@
 <div class='wrapper'>
 <div class='profile-card js-profile-card'>
 <div class='profile-card__img'>
-<img alt='profile card' src='/image/profile-card.png'/>
+<img alt='profile card' src='https://scontent.fhan2-3.fna.fbcdn.net/v/t1.6435-9/fr/cp0/e15/q65/186462131_519009382857151_6027026678516329358_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_ohc=-pXfR2r8XqEAX92lyji&tn=V6DHyMMda-Idi07V&_nc_ht=scontent.fhan2-3.fna&oh=1ec9c1665989d57b52b5180389e9e395&oe=616D286B'/>
 </div>
 <div class='profile-card__cnt js-profile-cnt'>
 <div class='profile-card__name'> Nguyễn Văn Quyến <i class='fa fa-check-circle' style='color:rgb(17, 143, 249)' title='Verified Author'></i>
